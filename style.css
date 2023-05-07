@@ -13,3 +13,11 @@ body {
 .remove-btn {
     margin-left: 400px;
 }
+
+
+#item-input1 {
+    width: 300px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
